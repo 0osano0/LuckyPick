@@ -1,0 +1,5 @@
+{
+  "name": "LuckyPick - 随机姓名抽取",
+  "description": "一个现代化的互动工具，用于从 Excel 文件中随机抽取姓名，具有视觉效果并自动排除已获奖者。",
+  "requestFramePermissions": []
+}
